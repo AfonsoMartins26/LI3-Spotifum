@@ -4,6 +4,8 @@ Academic project implemented in C for the Computer Labs III course (2nd year, So
 
 The goal is to manage and query records related to music: users, tracks, albums, artists and interaction history — using modular C code with GLib support and a textual interface (ncurses) for interactive mode.
 
+This project obtained a final grade of 17/20 💎
+
 ## Summary
 The project implements an in-memory "database" engine to store domain entities (User, Track, Album, Artist, History) and answer queries (batch or interactive). The code is organized into modules: parsers, entities, managers, queries and an interactive interface.
 
