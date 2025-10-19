@@ -104,21 +104,12 @@ Add concrete examples of dataset formats and the syntax of supported queries her
 ## Authors / Group
 Update this section with your team members and contributions:
 
-- A104100 — Student 1 (replace)
-- A104356 — Student 2 (replace)
-- A104439 — Student 3 (replace)
+- A106931 — Afonso Martins
+- A107337 — Gonçalo Castro
+- A106913 — Luís Felício
 
 ## Suggested improvements
 - Add an `EXAMPLES.md` with datasets and queries samples.
 - Precisely document query formats and accepted parameters for each supported query.
 - Implement unit tests for parsers and managers.
 - Consider simple persistence (dump/load) for very large datasets.
-
----
-
-If you want, I can perform one of the following next steps (pick one):
-1. Fill the "Authors" section with the real names and student IDs if you provide them.
-2. Extract supported queries automatically from `src/Queries.c` and `interativo/queries.c` and append a "Supported queries" section.
-3. Create an `examples/` directory with a small sample dataset and `queries.txt` to test batch mode.
-
-Tell me which option you want next (or request another change to the README).# LI3-Spotifum
